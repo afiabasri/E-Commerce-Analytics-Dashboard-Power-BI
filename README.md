@@ -36,6 +36,6 @@ E-Commerce platform (2016–2018)
 
 ## 📸 Dashboard Preview
 ![Home Page](https://github.com/afiabasri/E-Commerce-Analytics-Dashboard-Power-BI/blob/main/home_page.png)
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](https://github.com/afiabasri/E-Commerce-Analytics-Dashboard-Power-BI/blob/main/dashboard_page.png)
 
 
